@@ -1,0 +1,1 @@
+This is a project meant to collect the knowledge learnt in the neurocontrol course
